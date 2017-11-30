@@ -16,7 +16,11 @@
      font-family: italic;
      font-size: 24px;
      font-style: bold;
+<<<<<<< HEAD
      color: #011320;
+=======
+     color:#011320 ;
+>>>>>>> gh-pages
  }
  
  #side {
@@ -34,7 +38,11 @@
      font-size: 18px;
      text-transform: uppercase;
      -webkit-text-fill-color: black;
+<<<<<<< HEAD
      background-color: #737473;
+=======
+     background-color:#737473 ;
+>>>>>>> gh-pages
  }
  
  .col-xs-6 {
@@ -65,7 +73,11 @@
  }
  
  .row {
+<<<<<<< HEAD
      background-color: #C6EEEB;
+=======
+     background-color:#C6EEEB ;
+>>>>>>> gh-pages
      padding-left: 10px;
      margin-top: 5px;
      font-family: sans-serif;
